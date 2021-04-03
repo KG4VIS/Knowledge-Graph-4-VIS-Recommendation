@@ -1,0 +1,1 @@
+python -u codes/run.py --do_train  --cuda -adv --data_path ../data/triplets --model TransE -save ../embeddings/TransE
