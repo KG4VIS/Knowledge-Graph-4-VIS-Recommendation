@@ -28,6 +28,8 @@ Since it is still an experimental version, please feel free to let us know if th
 
 
 ### Credit
+We would like to thank Dr. Kevin Hu for granting us the permission of using and open-sourcing the code and dataset in [VizML](https://vizml.media.mit.edu/).
+
 Partial implementation is based on:
 - https://github.com/mitmedialab/vizml
 - https://github.com/guillermo-navas-palencia/optbinning
